@@ -103,70 +103,55 @@ Plotly
 <table align="center">
 
 <tr>
+  <td align="center">
+    <a href="https://www.linkedin.com/in/tanujkumawat3008">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="55" style="border-radius:8px;">
+    </a><br>
+    LinkedIn
+  </td>
 
-<td align="center">
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" style="border-radius:8px;">
-</a>
-<br>LinkedIn
-</td>
+  <td align="center">
+    <a href="https://github.com/k-tanuj">
+      <img src="https://skillicons.dev/icons?i=github" width="55" style="border-radius:8px;">
+    </a><br>
+    GitHub
+  </td>
 
-<td align="center">
-<a href="https://github.com/k-tanuj">
-<img src="https://skillicons.dev/icons?i=github" width="55" style="border-radius:8px;">
-</a>
-<br>GitHub
-</td>
-
-<td align="center">
-<a href="mailto:tanujkumawat3008@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" style="border-radius:8px;">
-</a>
-<br>Gmail
-</td>
-
-<td align="center">
-<a href="https://leetcode.com/">
-<img src="https://cdn.simpleicons.org/leetcode" width="55" style="border-radius:8px;">
-</a>
-<br>LeetCode
-</td>
-
+  <td align="center">
+    <a href="mailto:tanujkumawat3008@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="55" style="border-radius:8px;">
+    </a><br>
+    Gmail
+  </td>
 </tr>
 
 <tr>
+  <td align="center">
+    <a href="https://www.hackerrank.com/k-tanuj">
+      <img src="./gifs/hackerrank.png" width="55" style="border-radius:8px;">
+    </a><br>
+    HackerRank
+  </td>
 
-<td align="center">
-<a href="#">
-<img src="https://cdn.simpleicons.org/discord" width="55" style="border-radius:8px;">
-</a>
-<br>Discord
-</td>
+  <td align="center">
+    <a href="https://www.datacamp.com/portfolio/k-tanuj">
+      <img src="./gifs/datacamp.png" width="55" style="border-radius:8px;">
+    </a><br>
+    DataCamp
+  </td>
 
-<td align="center">
-<a href="#">
-<img src="https://cdn.simpleicons.org/spotify" width="55" style="border-radius:8px;">
-</a>
-<br>Spotify
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://cdn.simpleicons.org/youtube" width="55" style="border-radius:8px;">
-</a>
-<br>YouTube
-</td>
-
-<td align="center">
-<a href="#">
-<img src="https://cdn.simpleicons.org/x" width="55" style="border-radius:8px;">
-</a>
-<br>X
-</td>
-
+  <td align="center">
+    <a href="#">
+      <img src="https://cdn.simpleicons.org/discord" width="55" style="border-radius:8px;">
+    </a><br>
+    Discord
+  </td>
 </tr>
 
 </table>
+
+
+</div>
 
 </td>
 
@@ -307,5 +292,6 @@ Plotly
 <!--  2. Enable "Read and write permissions"           -->
 <!--  3. Create .github/workflows/snake.yml (see note) -->
 <!-- ████████████████████████████████████████████████ -->
-#   k - t a n u j  
+#   k - t a n u j 
+ 
  
