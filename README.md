@@ -215,7 +215,7 @@ Plotly
 
 <div align="center">
 
-## `[ CREEPER TRAIL — Contribution Snake ]`
+`[ CREEPER TRAIL — Contribution Snake ]`
 
 
 
@@ -241,7 +241,7 @@ Plotly
 
 <div align="center">
 
-## SCOREBOARD — Visitor Count
+SCOREBOARD — Visitor Count
 
 
 <br/>
@@ -268,18 +268,7 @@ Plotly
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║      [k-tanuj has left the server]                        ║
-║                                                           ║
-║      Thanks for visiting! Come back soon 👋               ║
-║      Remember: Every great build starts with one block.   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
-<br/>
 
 <!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=k-tanuj&fontSize=40&fontColor=5D9940&fontAlignY=65&desc=Keep%20on%20Mining!%20⛏️&descAlignY=85&descColor=62A93A&animation=twinkling" width="100%"/>
