@@ -111,10 +111,10 @@ Plotly
   </td>
 
   <td align="center">
-    <a href="https://github.com/k-tanuj">
-      <img src="https://skillicons.dev/icons?i=github" width="55" style="border-radius:8px;">
+    <a href="https://dbpedia.slack.com/team/U0A77FM0ZGQ">
+      <img src="https://github.com/user-attachments/assets/33abff93-52ab-4ea7-b80f-ee8666536b63" width="55" style="border-radius:8px;">
     </a><br>
-    GitHub
+    Slack
   </td>
 
   <td align="center">
@@ -141,10 +141,10 @@ Plotly
   </td>
 
   <td align="center">
-    <a href="#">
-      <img src="https://cdn.simpleicons.org/discord" width="55" style="border-radius:8px;">
+    <a href="https://www.credly.com/users/tanuj-kumawat.b5737899/badges#credly">
+      <img src="https://github.com/user-attachments/assets/e246a30e-5224-46e5-8055-1e16ab43c8b6" width="55" style="border-radius:8px;">
     </a><br>
-    Discord
+    Credly 
   </td>
 </tr>
 
