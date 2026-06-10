@@ -5,23 +5,18 @@
 
 <div align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif;">
 
+<!-- ═══════════════════ HEADER GIF ═══════════════════ -->
 <img src="./gifs/minecraft_header.gif" width="100%" alt="Minecraft Header Animation"/>
 
-</div>
 
-<br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
 
-<div align="center">
-<h2 style="margin: 0 0 14px;">Crafting Table</h2>
-</div>
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Crafting Table</h2>
 
 <table>
 <tr>
 
+<!-- LEFT SIDE -->
 <td width="50%" valign="top">
 
 <h3 align="center">Tech Stack</h3>
@@ -83,17 +78,20 @@
 <img src="./gifs/scikit-learn.gif" width="70" style="border-radius:8px;"><br>Scikit Learn
 </td>
 <td align="center">
-<img src="./gifs/plotly.png" width="70" style="border-radius:8px;"><br>Plotly
+<img src="./gifs/plotly.png" width="70" style="border-radius:8px;">
+<br>
+Plotly
 </td>
 </tr>
 </table>
 
-</td>
+</div>
 
+<!-- RIGHT SIDE -->
 <td width="50%" valign="top">
 
 <p align="center">
-<img src="./gifs/your lie in april.jpg" width="100%" style="border-radius:12px;" alt="Header Image" />
+<img src="./gifs/your lie in april.jpg" width="100%" style="border-radius:8px;" alt="Header Image" />
 </p>
 
 <p align="center">
@@ -103,6 +101,7 @@
 <h3 align="center">Multiplayer</h3>
 
 <table align="center">
+
 <tr>
   <td align="center">
     <a href="https://www.linkedin.com/in/tanujkumawat3008">
@@ -145,110 +144,136 @@
     <a href="https://www.credly.com/users/tanuj-kumawat.b5737899/badges#credly">
       <img src="https://github.com/user-attachments/assets/e246a30e-5224-46e5-8055-1e16ab43c8b6" width="55" style="border-radius:8px;">
     </a><br>
-    Credly
+    Credly 
   </td>
 </tr>
+
 </table>
+
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
+
+</div>
 
 <br/>
-<div align="center"><img src="./gifs/minecraft_divider.png" width="100%" alt="Section Divider"/></div>
-<br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
+<!-- ═══════════════════ MINECRAFT DIVIDER ═══════════════════ -->
+
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                     GITHUB STATS SECTION                    -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<h2 style="margin: 0 0 14px;">Achievement Board — GitHub Stats</h2>
+
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Achievement Board — GitHub Stats</h2>
+
+
+
+<br/>
+
+<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com?user=k-tanuj&theme=dark&hide_border=true&border_radius=0&background=0D1117&ring=5D9940&fire=FCBA03&currStreakLabel=5D9940&sideNums=62A93A&dates=8B8B8B&sideLabels=5D9940&currStreakNum=FCBA03" alt="GitHub Streak" />
+
 </div>
 
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="./gifs/minecraft_divider.png" width="100%" alt="Section Divider"/></div>
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
+
+
+<br/>
+
+<!-- ═══════════════════ MINECRAFT DIVIDER ═══════════════════ -->
+
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                    ACTIVITY GRAPH SECTION                   -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<h2 style="margin: 0 0 14px;">World Map — Contribution Activity</h2>
+
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">World Map — Contribution Activity</h2>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-tanuj&bg_color=0d1117&color=5D9940&line=62A93A&point=FCBA03&area=true&hide_border=true&area_color=1a4a1a" width="100%" alt="Activity Graph"/>
+
 </div>
 
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="./gifs/minecraft_divider.png" width="100%" alt="Section Divider"/></div>
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
+<!-- ═══════════════════ MINECRAFT DIVIDER ═══════════════════ -->
+
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                  CONTRIBUTION SNAKE SECTION                 -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<h2 style="margin: 0 0 14px;">Creeper Trail — Contribution Snake</h2>
 
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Creeper Trail — Contribution Snake</h2>
+
+
+
+<br/>
+
+<!-- Snake animation - generate via GitHub Actions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-tanuj/k-tanuj/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-tanuj/k-tanuj/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/k-tanuj/k-tanuj/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
 </div>
 
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="./gifs/minecraft_divider.png" width="100%" alt="Section Divider"/></div>
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
+
+
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                    VISITOR COUNTER SECTION                  -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<h2 style="margin: 0 0 14px;">Scoreboard — Visitor Count</h2>
+
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Scoreboard — Visitor Count</h2>
+
+
+<br/>
+
 <img src="https://count.getloli.com/@k-tanuj?name=k-tanuj&theme=minecraft&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=1" alt="Visitor Counter"/>
+
 <br/><br/>
+
+<!-- RANDOM DEV JOKE AS "MINECRAFT TIP" -->
 <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&textColor=%235D9940&aColor=%235D9940&borderColor=%235D9940" alt="Jokes Card" />
+
 </div>
 
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="./gifs/minecraft_divider.png" width="100%" alt="Section Divider"/></div>
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(145deg,#0d1117,#111827); box-shadow:0 8px 20px rgba(1,4,9,0.35);">
+<!-- ═══════════════════ MINECRAFT DIVIDER ═══════════════════ -->
+
+
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                        FOOTER                               -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=k-tanuj&fontSize=40&fontColor=5D9940&fontAlignY=65&desc=Keep%20on%20Mining!%20⛏️&descAlignY=85&descColor=62A93A&animation=twinkling" width="100%"/>
-</div>
 
-</td>
-</tr>
-</table>
+<br/>
+
+
+
+<!-- Wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=k-tanuj&fontSize=40&fontColor=5D9940&fontAlignY=65&desc=Keep%20on%20Mining!%20⛏️&descAlignY=85&descColor=62A93A&animation=twinkling" width="100%"/>
+
+</div>
 
 <!-- ████████████████████████████████████████████████ -->
 <!--         GITHUB ACTIONS SNAKE SETUP GUIDE:        -->
