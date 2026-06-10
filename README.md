@@ -3,7 +3,7 @@
 <!--                     github.com/k-tanuj                     -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
-<div align="center" style="font-family: 'Inter', sans-serif;">
+<div align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif;">
 
 <!-- ═══════════════════ HEADER GIF ═══════════════════ -->
 <img src="./gifs/minecraft_header.gif" width="100%" alt="Minecraft Header Animation"/>
@@ -11,7 +11,7 @@
 
 
 
-## Crafting Table
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Crafting Table</h2>
 
 <table>
 <tr>
@@ -172,7 +172,7 @@ Plotly
 
 <div align="center">
 
-## `[ ACHIEVEMENT BOARD — GitHub Stats ]`
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Achievement Board — GitHub Stats</h2>
 
 
 
@@ -198,7 +198,7 @@ Plotly
 
 <div align="center">
 
-## `[ WORLD MAP — Contribution Activity ]`
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">World Map — Contribution Activity</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-tanuj&bg_color=0d1117&color=5D9940&line=62A93A&point=FCBA03&area=true&hide_border=true&area_color=1a4a1a" width="100%" alt="Activity Graph"/>
 
@@ -215,7 +215,7 @@ Plotly
 
 <div align="center">
 
-`[ CREEPER TRAIL — Contribution Snake ]`
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Creeper Trail — Contribution Snake</h2>
 
 
 
@@ -241,7 +241,7 @@ Plotly
 
 <div align="center">
 
-SCOREBOARD — Visitor Count
+<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Scoreboard — Visitor Count</h2>
 
 
 <br/>
@@ -281,6 +281,3 @@ SCOREBOARD — Visitor Count
 <!--  2. Enable "Read and write permissions"           -->
 <!--  3. Create .github/workflows/snake.yml (see note) -->
 <!-- ████████████████████████████████████████████████ -->
-#   k - t a n u j 
- 
- 
