@@ -275,9 +275,3 @@ Plotly
 
 </div>
 
-<!-- ████████████████████████████████████████████████ -->
-<!--         GITHUB ACTIONS SNAKE SETUP GUIDE:        -->
-<!--  1. Go to your repo Settings → Actions → General -->
-<!--  2. Enable "Read and write permissions"           -->
-<!--  3. Create .github/workflows/snake.yml (see note) -->
-<!-- ████████████████████████████████████████████████ -->
