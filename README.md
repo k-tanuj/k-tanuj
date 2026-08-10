@@ -154,7 +154,7 @@ Plotly
 
   <td align="center">
     <a href="https://www.ktanuj.me">
-      <img src="./gifs/portfolio_animation.gif" width="55" style="border-radius:8px;">
+      <img src="./gifs/portfolio_animation.gif" width="85">
     </a><br>
     Portfolio
   </td>
