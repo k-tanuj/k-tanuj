@@ -111,10 +111,10 @@ Plotly
   </td>
 
   <td align="center">
-    <a href="https://dbpedia.slack.com/team/U0A77FM0ZGQ">
-      <img src="https://github.com/user-attachments/assets/33abff93-52ab-4ea7-b80f-ee8666536b63" width="55" style="border-radius:8px;">
+    <a href="https://www.credly.com/users/tanuj-kumawat.b5737899/badges#credly">
+      <img src="https://github.com/user-attachments/assets/e246a30e-5224-46e5-8055-1e16ab43c8b6" width="55" style="border-radius:8px;">
     </a><br>
-    Slack
+    Credly
   </td>
 
   <td align="center">
@@ -134,17 +134,32 @@ Plotly
   </td>
 
   <td align="center">
-    <a href="https://www.datacamp.com/portfolio/k-tanuj">
-      <img src="./gifs/datacamp.png" width="55" style="border-radius:8px;">
+    <a href="https://neetcode.io/user/ChromeSith405">
+      <img src="./gifs/neetcode_logo.png" width="55" style="border-radius:8px;">
     </a><br>
-    DataCamp
+    NeetCode
   </td>
 
   <td align="center">
-    <a href="https://www.credly.com/users/tanuj-kumawat.b5737899/badges#credly">
-      <img src="https://github.com/user-attachments/assets/e246a30e-5224-46e5-8055-1e16ab43c8b6" width="55" style="border-radius:8px;">
+    <a href="https://leetcode.com/u/k-tanuj/">
+      <img src="./gifs/leetcode_logo.png" width="55" style="border-radius:8px;">
     </a><br>
-    Credly 
+    LeetCode
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+  </td>
+
+  <td align="center">
+    <a href="https://www.ktanuj.me">
+      <img src="./gifs/portfolio_animation.gif" width="55" style="border-radius:8px;">
+    </a><br>
+    Portfolio
+  </td>
+
+  <td align="center">
   </td>
 </tr>
 
@@ -235,18 +250,9 @@ Plotly
 
 
 
-<!-- ─────────────────────────────────────────────────────────── -->
-<!--                    VISITOR COUNTER SECTION                  -->
-<!-- ─────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<h2 align="center" style="font-family: 'Segoe UI', 'Inter', Arial, sans-serif; color: #000000; margin: 16px 0 12px;">Scoreboard — Visitor Count</h2>
-
-
-<br/>
-
-<img src="https://count.getloli.com/@k-tanuj?name=k-tanuj&theme=minecraft&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=1" alt="Visitor Counter"/>
 
 <br/><br/>
 
@@ -271,7 +277,7 @@ Plotly
 
 
 <!-- Wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=k-tanuj&fontSize=40&fontColor=5D9940&fontAlignY=65&desc=Keep%20on%20Mining!%20⛏️&descAlignY=85&descColor=62A93A&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer" width="100%"/>
 
 </div>
 
